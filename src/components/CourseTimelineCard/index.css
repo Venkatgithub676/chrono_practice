@@ -1,1 +1,55 @@
 /* Write your CSS here */
+.course-con {
+  padding: 10px;
+  width: 100%;
+}
+.course-title-timer-con {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.course-title {
+  font-family: 'Bree Serif';
+  font-size: 25px;
+}
+
+.timer-details-con {
+  display: flex;
+  align-items: center;
+}
+
+.timer {
+  font-size: 25px;
+  margin-right: 10px;
+}
+.duration {
+  font-family: 'Roboto';
+  font-size: 15px;
+}
+.description {
+  font-family: 'Roboto';
+  font-size: 18px;
+  color: #1e293b;
+}
+.ul-item {
+  list-style-type: none;
+  padding-left: 0;
+  display: flex;
+  width: 100%;
+
+  align-items: center;
+  flex-wrap: wrap;
+}
+.li-items {
+  margin-right: 20px;
+  font-size: 15px;
+  padding: 10px;
+  margin-bottom: 10px;
+  background-color: #d7d9e0;
+  color: #1e293b;
+  font-weight: bold;
+  font-family: 'Roboto';
+  width: auto;
+  font-weight: bold;
+  border-radius: 5px;
+}

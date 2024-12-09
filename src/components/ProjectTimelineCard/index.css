@@ -1,1 +1,31 @@
 /* Write your CSS here */
+
+.project-con {
+}
+.project-img {
+  width: 100%;
+}
+.project-icon-con {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.project-title {
+  font-family: 'Roboto';
+  font-size: 25px;
+}
+.icon-duration {
+  display: flex;
+  align-items: center;
+}
+.ai-calendar {
+  margin-right: 7px;
+  font-size: 15px;
+}
+
+.link {
+  color: #0967d2;
+  font-family: 'Roboto';
+  font-size: 20px;
+  text-decoration: none;
+}
